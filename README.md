@@ -4,14 +4,14 @@
     Uma MST dita os caminhos mínimos de cada vértice. Tendo os caminhos mínimos, é possível se deslocar por um grafo tendo o mínimo de esforço possível.
     
     Considere o seguinte grafo:
-    ![gap1.png]({{site.baseurl}}/gap1.png)
+    ![Imagem1](https://github.com/HFrajacomo/Minimum-Spanning-Tree/gap1.png)
 
 	Este é o grafo gerado pela matriz de distâncias inclusa no repositório.
     
     Para encontrarmos a MST do grafo acima, aplicamos o script _Prim.py_.
     
     Contudo, adquirimos a seguinte MST como resultado:
-    ![gap2.png]({{site.baseurl}}/gap2.png)
+    ![Imagem2](https://github.com/HFrajacomo/Minimum-Spanning-Tree/gap2.png)
 
 
     
