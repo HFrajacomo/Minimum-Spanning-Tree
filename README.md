@@ -13,3 +13,5 @@
     
 ###    Contudo, adquirimos a seguinte MST como resultado:
 ###    ![Grafo2](https://i.imgur.com/kQsPRFw.png)
+
+### O grafo acima representa nossa MST, ligando as arestas de menor peso à partir do vértice raiz.
