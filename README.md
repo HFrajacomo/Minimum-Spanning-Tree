@@ -6,7 +6,7 @@ Vários problemas do dia-a-dia podem ser resolvidos através de grafos. Portanto
 vamos mostrar como podemos gerar uma Minimum Spanning Tree (MST) através de um grafo.
     Uma MST dita os caminhos mínimos de cada vértice. Tendo os caminhos mínimos, é possível se deslocar por um grafo tendo o mínimo de esforço possível.
     
-    Considere o seguinte grafo:
+Considere o seguinte grafo:
 ###    ![Grafo1](https://i.imgur.com/7GTDOnY.png)
 
 Este é o grafo gerado pela matriz de distâncias inclusa no repositório.
